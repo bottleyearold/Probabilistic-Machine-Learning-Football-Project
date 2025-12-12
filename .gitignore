@@ -10,6 +10,7 @@ __pycache__/
 # Data files (optional if you don’t want to push big datasets)
 data/*.csv
 data/*.xlsx
+!data/Spotify_Songs_Cleaned.csv
 
 # VS Code settings
 .vscode/
